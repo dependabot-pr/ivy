@@ -9130,17 +9130,6 @@
             "id": "7259293b-2f92-43e8-a821-ce72fef7d0d8"
         },
         {
-            "accountId": "70e92989-571e-4dd3-9c87-ba3a79c80b0f",
-            "type": "INCOME",
-            "amount": 50000.0,
-            "toAmount": 50000.0,
-            "title": "Past Investments",
-            "description": "",
-            "dateTime": 1672431180000,
-            "categoryId": "c3dd00a2-b134-4afe-9969-e729af446f3e",
-            "id": "b6aeca0d-ac65-42dc-9638-63d5c0f66f89"
-        },
-        {
             "accountId": "77b0c517-2bd8-42ac-96cc-36a819104269",
             "type": "INCOME",
             "amount": 26000.0,
